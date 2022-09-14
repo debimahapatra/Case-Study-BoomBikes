@@ -36,7 +36,7 @@ We have fixed the data as it was misleading
 - Language - Python
 - library - Numpy
 - library - Pandas
-- library - matplotlib (version: '3.4.0')
+- library - matplotlib
 - library - seaborn
 - library - math
 - Library - statsmodel
